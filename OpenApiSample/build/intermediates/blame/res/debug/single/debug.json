@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\privateProject2\\OpenApiSample\\OpenApiSample\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

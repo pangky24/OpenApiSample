@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\OpenApiSample\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\OpenApiSample\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "50",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "106",
+                        "endColumns": "50",
+                        "endOffsets": "152"
+                    }
+                },
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,4,5,6,7,8,9,10,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,276,395,487,603,692,830,1121",
+                        "endLines": "2,4,5,6,7,8,9,16,19",
+                        "endColumns": "50,121,118,91,115,88,137,12,12",
+                        "endOffsets": "101,271,390,482,598,687,825,1116,1276"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,7,8,9,10,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,279,398,490,606,695,833,1124",
+                        "endLines": "2,4,5,6,7,8,9,16,19",
+                        "endColumns": "50,121,118,91,115,88,137,12,12",
+                        "endOffsets": "101,274,393,485,601,690,828,1119,1279"
+                    }
+                }
+            ]
+        }
+    ]
+}

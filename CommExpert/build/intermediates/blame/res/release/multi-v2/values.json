@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,8,12,7,10,11,9",
+                        "startColumns": "3,4,4,4,4,4,4,4",
+                        "startOffsets": "69,19,252,721,159,514,631,375",
+                        "endColumns": "49,47,121,118,91,115,88,137",
+                        "endOffsets": "115,62,369,835,246,625,715,508"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,154,276,395,487,603,692",
+                        "endColumns": "50,47,121,118,91,115,88,137",
+                        "endOffsets": "101,149,271,390,482,598,687,825"
+                    }
+                },
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "830,1121",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "1116,1276"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,8,12,7,10,11,9",
+                        "startColumns": "3,4,4,4,4,4,4,4",
+                        "startOffsets": "69,19,252,721,159,514,631,375",
+                        "endColumns": "49,47,121,118,91,115,88,137",
+                        "endOffsets": "115,62,369,835,246,625,715,508"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,154,276,395,487,603,692",
+                        "endColumns": "50,47,121,118,91,115,88,137",
+                        "endOffsets": "101,149,271,390,482,598,687,825"
+                    }
+                },
+                {
+                    "source": "C:\\privateProject2\\OpenApiSample_mobile\\OpenApiSample_mobile\\CommExpert\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "830,1121",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "1116,1276"
+                    }
+                }
+            ]
+        }
+    ]
+}

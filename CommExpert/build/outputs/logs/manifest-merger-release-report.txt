@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:2:5-37
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:4:5-30
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:3:5-28
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+uses-sdk
+ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:6:5-47
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:6:5-47
+INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:6:5-47
+	android:targetSdkVersion
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:6:15-44
+	android:minSdkVersion
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml
+		ADDED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml:6:5-47
+		INJECTED from C:\privateProject2\OpenApiSample_mobile\OpenApiSample_mobile\CommExpert\AndroidManifest.xml

@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.openapi.sample"
+4    android:installLocation="internalOnly"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml
+10        android:targetSdkVersion="21" />
+10-->[:CommExpert] C:\privateProject2\OpenApiSample\CommExpert\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-38
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:8:5-66
+12-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:9:5-79
+13-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:9:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:10:5-80
+14-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:11:5-78
+15-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:11:22-76
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:12:5-75
+16-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:12:22-73
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:13:5-74
+17-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:13:22-72
+18
+19    <application
+19-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:15:3-38:19
+20        android:debuggable="true"
+21        android:hardwareAccelerated="true"
+21-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:22:9-43
+22        android:icon="@drawable/ic_launcher"
+22-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:16:8-44
+23        android:label="@string/app_name"
+23-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:17:9-41
+24        android:largeHeap="true"
+24-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:18:9-33
+25        android:restoreAnyVersion="false"
+25-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:19:9-42
+26        android:restoreNeedsApplication="true"
+26-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:20:9-47
+27        android:testOnly="true"
+28        android:theme="@android:style/Theme.NoTitleBar" >
+28-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:21:9-56
+29        <activity
+29-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:23:6-36:20
+30            android:name="com.openapi.sample.sampleActivity"
+30-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:24:13-61
+31            android:allowTaskReparenting="true"
+31-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:29:4-39
+32            android:alwaysRetainTaskState="true"
+32-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:25:13-49
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|uiMode"
+33-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:26:13-103
+34            android:label="@string/app_name"
+34-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:27:13-45
+35            android:launchMode="singleTask"
+35-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:28:13-44
+36            android:screenOrientation="portrait"
+36-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:30:4-40
+37            android:windowSoftInputMode="adjustPan" >
+37-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:31:13-52
+38            <intent-filter>
+38-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:32:13-35:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:33:17-69
+39-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:33:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:34:17-77
+41-->C:\privateProject2\OpenApiSample\OpenApiSample\AndroidManifest.xml:34:27-74
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>

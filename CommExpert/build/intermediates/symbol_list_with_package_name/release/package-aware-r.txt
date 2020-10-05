@@ -1,0 +1,12 @@
+com.commexpert.corelib
+drawable ic_launcher
+string app_conn_media_code
+string app_name
+string connect_fail_3gfail
+string connect_fail_callcenter
+string connect_fail_closed
+string connect_fail_nonetwork
+string connect_fail_warning
+string connect_fail_wififail
+style AppBaseTheme
+style AppTheme

@@ -1,0 +1,77 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  digests {
+    sha256: "l\030Dz\214\001\314\277\253\206/D\271_g\261yf\024/%\232\346\344\017\001\371\323\276$\036X"
+  }
+}
+library {
+  digests {
+    sha256: "#%\360\266b\035\242\034\002%\022\257,(7)L\322\203\362\250\313t\340\343i2\313!\367_\216"
+  }
+}
+library {
+  digests {
+    sha256: "\204\341\a\243\345)G\333\203@[\332A\272\030y\231X\326k\362\247\322]\3258\342\373\244\034;3"
+  }
+}
+library {
+  digests {
+    sha256: "\001\272!\"\225Xre\374\255\a\b\016\371;\034\243y\260\200\337\201N\355\201iH\310\363\000\271\246"
+  }
+}
+library {
+  digests {
+    sha256: "[|\210Qo\346\001\234j\320\303\326\346\336\361_\356^\255\367\377k!\222\316`k\035\a\261\024\217"
+  }
+}
+library {
+  digests {
+    sha256: "\257L\276|L\224\016|\353\371\\\177?q\320\342\"\311Q\247\220\326\370\317A\361\262\353+\333\247\353"
+  }
+}
+library {
+  digests {
+    sha256: "\0248\241\235\317ED\256\230oUV\354\323Q\232\366=\343d\033\261\337\244Z7\345`\236\236\320\275"
+  }
+}
+library {
+  digests {
+    sha256: "\371H\027X\326x*\246MC\253r-\206\241\205\310\301\311\371\203\022$\325?\367\314\242\242\206\220\266"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+library_dependencies {
+  library_index: 5
+}
+library_dependencies {
+  library_index: 6
+}
+library_dependencies {
+  library_index: 7
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+  dependency_index: 3
+  dependency_index: 4
+  dependency_index: 5
+  dependency_index: 6
+  dependency_index: 7
+}
