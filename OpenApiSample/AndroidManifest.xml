@@ -21,7 +21,7 @@
         android:theme="@android:style/Theme.NoTitleBar" 
         android:hardwareAccelerated="true">
      <activity
-            android:name="com.openapi.sample.sampleActivity"
+            android:name="com.stock.login.SampleActivity"
             android:alwaysRetainTaskState="true"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|uiMode"
             android:label="@string/app_name"

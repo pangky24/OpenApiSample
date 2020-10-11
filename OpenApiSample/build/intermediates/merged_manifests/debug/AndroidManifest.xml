@@ -27,7 +27,7 @@
         android:testOnly="true"
         android:theme="@android:style/Theme.NoTitleBar" >
         <activity
-            android:name="com.openapi.sample.sampleActivity"
+            android:name="com.stock.login.SampleActivity"
             android:allowTaskReparenting="true"
             android:alwaysRetainTaskState="true"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|uiMode"
